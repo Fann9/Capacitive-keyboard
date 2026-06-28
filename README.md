@@ -2,7 +2,6 @@
 
 ![7SC3sOZb_converted_compressed_compressed.gif](https://image.lceda.cn/oshwhub/pullImage/24045831eb224cce975c05940a4c27ef.gif)
 
-(我无法找到更好的工具使我的gif压缩至3M以下，如果你有办法，请帮助我)
 ## 项目简介
 本项目通过SC12B芯片，实现了触摸电容键盘的功能，输出包含IIC，BCD数字，BCD模拟
 
